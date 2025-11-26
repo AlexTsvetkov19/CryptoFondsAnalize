@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+}
+
+.green-percent {
+
+  color: #00cc00;   /* лесной зелёный */
+  font-weight: 600;
+}
+
+.red-percent {
+  color: #dc3545; /* красный */
+  font-weight: 600;
+}
+
+.custom-card-size {
+  width: 500px;
+  max-width: 100%;
+}
